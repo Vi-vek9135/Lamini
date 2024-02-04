@@ -3,6 +3,8 @@
 This Streamlit application allows users to upload a PDF file and obtain a summarization using a Language Model.
 
 ## Prerequisites
+You have to download all files of https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M/tree/main in folder name LaMini-Flan-T5-248M.
+LaMini-Flan-T5-248M should be in same directory streamlit_app.py
 
 Make sure you have the required Python libraries installed. You can install them using the following command:
 
