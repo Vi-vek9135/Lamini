@@ -7,6 +7,8 @@ This Streamlit application allows users to upload a PDF file and obtain a summar
 Make sure you have the required Python libraries installed. You can install them using the following command:
 
 ```bash
+conda create --name myenv python=3.10.0
+conda activate myenv
 pip install -r requirements.txt
 ```
 
